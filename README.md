@@ -58,7 +58,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/androidL/1200/unreal-engine.jpg" height="40" alt="ue5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://img.icons8.com/dotty/1200/notion.jpg" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
