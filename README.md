@@ -42,11 +42,6 @@
 - [Главное меню (Main Menu) одно из ТЗ инди-хоррор проекта](https://docs.google.com/document/d/1G6D2_LgUTLMnaHMD7bRXwUaKVjHNE3wArJvXwQbtf7I/edit?tab=t.0)
 
 
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ###
 
