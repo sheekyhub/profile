@@ -40,7 +40,7 @@
 - [Разбор Taonga: The Island Farm](https://www.notion.so/Taonga-The-Island-Farm-2f6c663a838a805b9a04ca7b851a84d8)
 - [Изучение и анализ проекта Road Trip | Glera Games](https://docs.google.com/presentation/d/1l1jv9mQyTS1X_ZPcqMZ_wj653Va3muUKQ5Rj418TbYs/edit?slide=id.p#slide=id.p)
 - [Главное меню (Main Menu) одно из ТЗ инди-хоррор проекта](https://docs.google.com/document/d/1G6D2_LgUTLMnaHMD7bRXwUaKVjHNE3wArJvXwQbtf7I/edit?tab=t.0)
-- [ Анализ начального пользовательского опыта ] (https://docs.google.com/document/d/1DlJabR1If1kYX6ZOfwC6rzLQZjFyVyhG0vmk0tWt37s/edit?tab=t.0#heading=h.yx4oo7kqx9uj)
+- [Анализ начального пользовательского опыта](https://docs.google.com/document/d/1DlJabR1If1kYX6ZOfwC6rzLQZjFyVyhG0vmk0tWt37s/edit?tab=t.0#heading=h.yx4oo7kqx9uj)
 
 
 
