@@ -36,6 +36,7 @@
 ###
 <h3 align="left">📕Портфолио</h3>
 
+- [Босс - Мара](https://docs.google.com/document/d/1bOQHXxABAtMWC3LULnV_RmR9zVOVAZk4bmTn_0UUWYc/edit?tab=t.0)
 - [Визуальная новелла с игровыми механиками](https://docs.google.com/document/d/1gHtMpJbb0nNl81foJeBwA5qIv-xjhmM4cVk-irNAx0k/edit?tab=t.0#heading=h.5bjtju6cghe3)
 - [Разбор Taonga: The Island Farm](https://www.notion.so/Taonga-The-Island-Farm-2f6c663a838a805b9a04ca7b851a84d8)
 - [Изучение и анализ проекта Road Trip | Glera Games](https://docs.google.com/presentation/d/1l1jv9mQyTS1X_ZPcqMZ_wj653Va3muUKQ5Rj418TbYs/edit?slide=id.p#slide=id.p)
